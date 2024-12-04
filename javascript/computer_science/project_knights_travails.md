@@ -1,5 +1,7 @@
 ### Introduction
 
+This problem will be SOOOOOOOOOOOOOOOO hard!
+
 Now you're a pro with DFS and BFS. Let's try using our search algorithms on a real problem.
 
 For this project, you'll need to use a graph, a data structure that's similar (but not identical) to a binary tree. For a good introduction on what graphs are, reference [Khan Academy's "Describing Graphs"](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs). Don't forget to look at the [section on representing graphs](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs), as it should give you some good ideas on how to actually implement graphs in your code.
